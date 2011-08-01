@@ -30,3 +30,9 @@ eclipse
 exit
 compile
 run
+compile
+run
+reload
+update
+compile
+run
