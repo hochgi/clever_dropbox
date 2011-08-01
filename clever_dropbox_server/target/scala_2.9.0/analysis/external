@@ -1,0 +1,9 @@
+#External Dependencies
+#Mon Aug 01 12:32:15 IDT 2011
+/home/giladhoch/workspace/clever_dropbox/clever_dropbox_server/lib_managed/scala_2.9.0/compile/jersey-server-1.8.jar=src/main/scala/CleverDropboxServer.scala
+/home/giladhoch/workspace/clever_dropbox/clever_dropbox_server/lib_managed/scala_2.9.0/compile/jetty-util-8.0.0.M0.jar=src/main/scala/CleverDropboxServer.scala
+/home/giladhoch/workspace/clever_dropbox/clever_dropbox_server/lib_managed/scala_2.9.0/compile/jetty-server-8.0.0.M0.jar=src/main/scala/CleverDropboxServer.scala
+/home/giladhoch/workspace/clever_dropbox/clever_dropbox_server/lib_managed/scala_2.9.0/compile/jetty-servlet-8.0.0.M0.jar=src/main/scala/CleverDropboxServer.scala
+/home/giladhoch/workspace/clever_dropbox/clever_dropbox_server/lib_managed/scala_2.9.0/compile/jsr311-api-1.1.1.jar=src/main/scala/CleverDropboxServer.scala
+/home/giladhoch/workspace/clever_dropbox/clever_dropbox_server/project/boot/scala-2.9.0/lib/scala-library.jar=src/main/scala/CleverDropboxServer.scala
+/opt/jdk6/jre/lib/rt.jar=src/main/scala/CleverDropboxServer.scala
