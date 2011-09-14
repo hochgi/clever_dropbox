@@ -1,0 +1,14 @@
+/home/dana/workspace/clever_dropbox_myserver/bin:/home/dana/Tools/eclipse/configuration/org.eclipse.osgi/bundles/208/1/.cp/lib/scala-library.jar:/home/dana/Tools/eclipse/configuration/org.eclipse.osgi/bundles/208/1/.cp/lib/scala-dbc.jar:/home/dana/Tools/eclipse/configuration/org.eclipse.osgi/bundles/208/1/.cp/lib/scala-swing.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/resources.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/rt.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/jsse.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/jce.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/charsets.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/ext/dnsns.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/ext/sunjce_provider.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/ext/zipfs.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/ext/sunec.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/ext/localedata.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/ext/sunpkcs11.jar
+-------
+/home/dana/workspace/clever_dropbox_myserver/src/serverMain.scala -> /home/dana/workspace/clever_dropbox_myserver/src/serverMain.scala
+/home/dana/workspace/clever_dropbox_myserver/src/deleteFileManager.scala -> /home/dana/workspace/clever_dropbox_myserver/src/deleteFileManager.scala
+/home/dana/workspace/clever_dropbox_myserver/src/NewFileManager.scala -> /home/dana/workspace/clever_dropbox_myserver/src/NewFileManager.scala
+-------
+/home/dana/workspace/clever_dropbox_myserver/src/serverMain.scala -> /home/dana/workspace/clever_dropbox_myserver/bin/ServerMain.class
+/home/dana/workspace/clever_dropbox_myserver/src/serverMain.scala -> /home/dana/workspace/clever_dropbox_myserver/bin/ServerMain$.class
+/home/dana/workspace/clever_dropbox_myserver/src/deleteFileManager.scala -> /home/dana/workspace/clever_dropbox_myserver/bin/DeleteFileManager$$anonfun$act$1.class
+/home/dana/workspace/clever_dropbox_myserver/src/deleteFileManager.scala -> /home/dana/workspace/clever_dropbox_myserver/bin/DeleteFileManager.class
+/home/dana/workspace/clever_dropbox_myserver/src/deleteFileManager.scala -> /home/dana/workspace/clever_dropbox_myserver/bin/DeleteFileManager$$anonfun$act$1$$anonfun$apply$1.class
+/home/dana/workspace/clever_dropbox_myserver/src/NewFileManager.scala -> /home/dana/workspace/clever_dropbox_myserver/bin/NewFileManager$$anonfun$act$1$$anonfun$apply$1.class
+/home/dana/workspace/clever_dropbox_myserver/src/NewFileManager.scala -> /home/dana/workspace/clever_dropbox_myserver/bin/NewFileManager$$anonfun$act$1.class
+/home/dana/workspace/clever_dropbox_myserver/src/NewFileManager.scala -> /home/dana/workspace/clever_dropbox_myserver/bin/NewFileManager.class

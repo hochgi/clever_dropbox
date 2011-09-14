@@ -1,0 +1,46 @@
+/home/dana/workspace/clever_dropbox_manager/bin:/home/dana/Tools/eclipse/configuration/org.eclipse.osgi/bundles/208/1/.cp/lib/scala-library.jar:/home/dana/Tools/eclipse/configuration/org.eclipse.osgi/bundles/208/1/.cp/lib/scala-dbc.jar:/home/dana/Tools/eclipse/configuration/org.eclipse.osgi/bundles/208/1/.cp/lib/scala-swing.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/resources.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/rt.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/jsse.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/jce.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/charsets.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/ext/dnsns.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/ext/sunjce_provider.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/ext/zipfs.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/ext/sunec.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/ext/localedata.jar:/home/dana/bin/jdk1.7.0-ea/jdk1.7.0/jre/lib/ext/sunpkcs11.jar:/home/dana/Tools/hibernate/antlr-2.7.6.jar:/home/dana/Tools/hibernate/commons-collections-3.1.jar:/home/dana/Tools/hibernate/commons-lang-2.4.jar:/home/dana/Tools/hibernate/commons-logging.jar:/home/dana/Tools/hibernate/core-3.1.1.jar:/home/dana/Tools/hibernate/dom4j-1.6.1.jar:/home/dana/Tools/hibernate/hibernate3.jar:/home/dana/Tools/hibernate/hibernate-commons-annotations-3.2.0.Final.jar:/home/dana/Tools/hibernate/hibernate-core-3.6.2.Final.jar:/home/dana/Tools/hibernate/hibernateJars.zip:/home/dana/Tools/hibernate/hibernate-jpa-2.0-api-1.0.0.Final.jar:/home/dana/Tools/hibernate/hibernate-testing.jar:/home/dana/Tools/hibernate/javassist-3.9.0.GA.jar:/home/dana/Tools/hibernate/jta-1.1.jar:/home/dana/Tools/hibernate/lucene-core-3.1.0.jar:/home/dana/Tools/hibernate/mysql-connector-java-5.1.16-bin.jar:/home/dana/Tools/hibernate/slf4j-api-1.6.1.jar:/home/dana/Tools/hibernate/slf4j-jdk14-1.6.1.jar:/home/dana/plugin.jar
+-------
+/home/dana/workspace/clever_dropbox_manager/src/dataBase/TaggedFileManager.scala -> /home/dana/workspace/clever_dropbox_manager/src/dataBase/TaggedFileManager.scala
+/home/dana/workspace/clever_dropbox_manager/src/dataBase/TaggedFileManager.scala -> /home/dana/workspace/clever_dropbox_manager/src/dataBase/TaggedFile.scala
+/home/dana/workspace/clever_dropbox_manager/src/main/ServerUpdateListener.scala -> /home/dana/workspace/clever_dropbox_manager/src/main/ServerUpdateListener.scala
+/home/dana/workspace/clever_dropbox_manager/src/main/clientManager.scala -> /home/dana/workspace/clever_dropbox_manager/src/watchDirectory/ServiceManager.scala
+/home/dana/workspace/clever_dropbox_manager/src/main/clientManager.scala -> /home/dana/workspace/clever_dropbox_manager/src/main/ServerUpdateListener.scala
+/home/dana/workspace/clever_dropbox_manager/src/main/clientManager.scala -> /home/dana/workspace/clever_dropbox_manager/src/main/ExternalEventHandler.scala
+/home/dana/workspace/clever_dropbox_manager/src/main/clientManager.scala -> /home/dana/workspace/clever_dropbox_manager/src/main/clientManager.scala
+/home/dana/workspace/clever_dropbox_manager/src/watchDirectory/ServiceManager.scala -> /home/dana/workspace/clever_dropbox_manager/src/watchDirectory/ServiceManager.scala
+/home/dana/workspace/clever_dropbox_manager/src/watchDirectory/ServiceManager.scala -> /home/dana/workspace/clever_dropbox_manager/src/main/LocalEventHandler.scala
+/home/dana/workspace/clever_dropbox_manager/src/watchDirectory/ServiceManager.scala -> /home/dana/workspace/clever_dropbox_manager/src/main/ServerUpdateListener.scala
+/home/dana/workspace/clever_dropbox_manager/src/main/ExternalEventHandler.scala -> /home/dana/workspace/clever_dropbox_manager/src/watchDirectory/ServiceManager.scala
+/home/dana/workspace/clever_dropbox_manager/src/main/ExternalEventHandler.scala -> /home/dana/workspace/clever_dropbox_manager/src/main/ExternalEventHandler.scala
+/home/dana/workspace/clever_dropbox_manager/src/main/LocalEventHandler.scala -> /home/dana/workspace/clever_dropbox_manager/src/dataBase/DataBaseManager.scala
+/home/dana/workspace/clever_dropbox_manager/src/main/LocalEventHandler.scala -> /home/dana/workspace/clever_dropbox_manager/src/main/LocalEventHandler.scala
+/home/dana/workspace/clever_dropbox_manager/src/main/LocalEventHandler.scala -> /home/dana/workspace/clever_dropbox_manager/src/filesTagSystem/DynamicClassLoader.scala
+/home/dana/workspace/clever_dropbox_manager/src/dataBase/DataBaseManager.scala -> /home/dana/workspace/clever_dropbox_manager/src/dataBase/DataBaseManager.scala
+/home/dana/workspace/clever_dropbox_manager/src/dataBase/DataBaseManager.scala -> /home/dana/workspace/clever_dropbox_manager/src/dataBase/TaggedFileManager.scala
+/home/dana/workspace/clever_dropbox_manager/src/dataBase/DataBaseManager.scala -> /home/dana/workspace/clever_dropbox_manager/src/dataBase/TaggedFile.scala
+/home/dana/workspace/clever_dropbox_manager/src/dataBase/TaggedFile.scala -> /home/dana/workspace/clever_dropbox_manager/src/dataBase/TaggedFile.scala
+/home/dana/workspace/clever_dropbox_manager/src/filesTagSystem/DynamicClassLoader.scala -> /home/dana/workspace/clever_dropbox_manager/src/filesTagSystem/DynamicClassLoader.scala
+-------
+/home/dana/workspace/clever_dropbox_manager/src/dataBase/TaggedFileManager.scala -> /home/dana/workspace/clever_dropbox_manager/bin/dataBase/TaggedFileManager.class
+/home/dana/workspace/clever_dropbox_manager/src/main/ServerUpdateListener.scala -> /home/dana/workspace/clever_dropbox_manager/bin/main/ServerUpdateListener.class
+/home/dana/workspace/clever_dropbox_manager/src/main/ServerUpdateListener.scala -> /home/dana/workspace/clever_dropbox_manager/bin/main/ServerUpdateListener$$anonfun$act$1$$anonfun$apply$1.class
+/home/dana/workspace/clever_dropbox_manager/src/main/ServerUpdateListener.scala -> /home/dana/workspace/clever_dropbox_manager/bin/main/ServerUpdateListener$$anonfun$act$1.class
+/home/dana/workspace/clever_dropbox_manager/src/main/clientManager.scala -> /home/dana/workspace/clever_dropbox_manager/bin/main/clientManager.class
+/home/dana/workspace/clever_dropbox_manager/src/main/clientManager.scala -> /home/dana/workspace/clever_dropbox_manager/bin/main/clientManager$.class
+/home/dana/workspace/clever_dropbox_manager/src/watchDirectory/ServiceManager.scala -> /home/dana/workspace/clever_dropbox_manager/bin/watchDirectory/ServiceManager.class
+/home/dana/workspace/clever_dropbox_manager/src/main/ExternalEventHandler.scala -> /home/dana/workspace/clever_dropbox_manager/bin/main/ExternalEventHandler$$anonfun$act$1.class
+/home/dana/workspace/clever_dropbox_manager/src/main/ExternalEventHandler.scala -> /home/dana/workspace/clever_dropbox_manager/bin/main/ExternalEventHandler$$anonfun$act$1$$anonfun$apply$1.class
+/home/dana/workspace/clever_dropbox_manager/src/main/ExternalEventHandler.scala -> /home/dana/workspace/clever_dropbox_manager/bin/main/ExternalEventHandler.class
+/home/dana/workspace/clever_dropbox_manager/src/main/LocalEventHandler.scala -> /home/dana/workspace/clever_dropbox_manager/bin/main/LocalEventHandler$$anonfun$act$1$$anonfun$apply$1.class
+/home/dana/workspace/clever_dropbox_manager/src/main/LocalEventHandler.scala -> /home/dana/workspace/clever_dropbox_manager/bin/main/LocalEventHandler.class
+/home/dana/workspace/clever_dropbox_manager/src/main/LocalEventHandler.scala -> /home/dana/workspace/clever_dropbox_manager/bin/main/LocalEventHandler$$anonfun$act$1.class
+/home/dana/workspace/clever_dropbox_manager/src/main/LocalEventHandler.scala -> /home/dana/workspace/clever_dropbox_manager/bin/main/LocalEventHandler$$anonfun$newFileHandle$1.class
+/home/dana/workspace/clever_dropbox_manager/src/dataBase/DataBaseManager.scala -> /home/dana/workspace/clever_dropbox_manager/bin/dataBase/DataBaseManager$.class
+/home/dana/workspace/clever_dropbox_manager/src/dataBase/DataBaseManager.scala -> /home/dana/workspace/clever_dropbox_manager/bin/dataBase/DataBaseManager.class
+/home/dana/workspace/clever_dropbox_manager/src/dataBase/TaggedFile.scala -> /home/dana/workspace/clever_dropbox_manager/bin/dataBase/TaggedFile.class
+/home/dana/workspace/clever_dropbox_manager/src/filesTagSystem/DynamicClassLoader.scala -> /home/dana/workspace/clever_dropbox_manager/bin/filesTagSystem/DynamicClassLoader$$anonfun$label$1.class
+/home/dana/workspace/clever_dropbox_manager/src/filesTagSystem/DynamicClassLoader.scala -> /home/dana/workspace/clever_dropbox_manager/bin/filesTagSystem/DynamicClassLoader$.class
+/home/dana/workspace/clever_dropbox_manager/src/filesTagSystem/DynamicClassLoader.scala -> /home/dana/workspace/clever_dropbox_manager/bin/filesTagSystem/DynamicClassLoader$$anonfun$label$1$$anonfun$apply$1.class
+/home/dana/workspace/clever_dropbox_manager/src/filesTagSystem/DynamicClassLoader.scala -> /home/dana/workspace/clever_dropbox_manager/bin/filesTagSystem/DynamicClassLoader$$anonfun$loadClasses$1.class
+/home/dana/workspace/clever_dropbox_manager/src/filesTagSystem/DynamicClassLoader.scala -> /home/dana/workspace/clever_dropbox_manager/bin/filesTagSystem/DynamicClassLoader.class
+/home/dana/workspace/clever_dropbox_manager/src/filesTagSystem/DynamicClassLoader.scala -> /home/dana/workspace/clever_dropbox_manager/bin/filesTagSystem/DynamicClassLoader$$anonfun$1.class
