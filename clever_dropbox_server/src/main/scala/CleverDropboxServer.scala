@@ -11,10 +11,10 @@ import com.sun.jersey.spi.container.servlet.ServletContainer
 import javax.ws.rs.{GET, Produces, Path, PathParam}
 
 
-object WebRunner extends App{
+object WebRunner extends App {
   override def main(args: Array[String]) {
 
-    val server = new Server(8080)
+    val server = new Server(8081)
     val connector = new SelectChannelConnector()
     server.addConnector(connector)
     
@@ -26,6 +26,21 @@ object WebRunner extends App{
     server.start
     server.join
   }
+}
+
+@Path("{page}/{username}/{password}")
+class WebSite {
+    @GET
+    //@Produces("html")
+    def getPage(@PathParam("page") page:String , @PathParam("username") user:String , @PathParam("password") pass:String):String = 
+    page match {
+        case "index" => """<html><title>ERROR!</title><body>index!!!</body></html>"""//PageLoader.getIndex(user,pass)
+        case "login" => """<html><title>ERROR!</title><body>login!!!</body></html>"""//PageLoader.getLogin(user,pass)
+        case "signup" => """<html><title>ERROR!</title><body>signup!!!</body></html>"""//PageLoader.getSignup(user,pass)
+        case "upload" => """<html><title>ERROR!</title><body>upload!!!</body></html>"""//PageLoader.getUpload(user,pass)
+        case "view" => """<html><title>ERROR!</title><body>view!!!</body></html>"""//PageLoader.getView(user,pass)
+        case _ => """<html><title>ERROR!</title><body>Page was not found... don't mess with me!!!</body></html>"""
+    }
 }
 
 
@@ -49,3 +64,4 @@ class SomethingElse {
         "<body>" + user + " ROCKSSSSSSSS!!!</body></html>"
     }
 }
+

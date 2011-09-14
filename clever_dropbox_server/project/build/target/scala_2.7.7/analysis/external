@@ -1,6 +1,0 @@
-#External Dependencies
-#Mon Aug 01 16:02:45 IDT 2011
-/home/giladhoch/workspace/clever_dropbox/clever_dropbox_server/project/plugins/target/scala_2.7.7/plugin-classes/de/element34/sbteclipsify/Eclipsify.class=CleverDropboxServerProject.scala
-/home/giladhoch/workspace/clever_dropbox/clever_dropbox_server/project/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.7/sbt_2.7.7-0.7.7.jar=CleverDropboxServerProject.scala
-/home/giladhoch/workspace/clever_dropbox/clever_dropbox_server/project/boot/scala-2.7.7/lib/scala-library.jar=CleverDropboxServerProject.scala
-/home/giladhoch/workspace/clever_dropbox/clever_dropbox_server/project/plugins/target/scala_2.7.7/plugin-classes/de/element34/sbteclipsify/Eclipsify$class.class=CleverDropboxServerProject.scala
