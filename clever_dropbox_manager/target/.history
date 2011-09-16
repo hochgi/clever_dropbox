@@ -234,3 +234,5 @@ reload
 update
 compile
 run
+doc
+exit

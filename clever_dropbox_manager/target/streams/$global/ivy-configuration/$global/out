@@ -1,0 +1,15 @@
+[0m[[0mdebug[0m] [0mOther repositories:[0m
+[0m[[0mdebug[0m] [0mDefault repositories:[0m
+[0m[[0mdebug[0m] [0m	Raw(ProjectResolver(inter-project, mapped: ))[0m
+[0m[[0mdebug[0m] [0m	FileRepository(local,FileConfiguration(true,None),sbt.Patterns@803c7f)[0m
+[0m[[0mdebug[0m] [0m	JavaNet1Repository: http://download.java.net/maven/1/[0m
+[0m[[0mdebug[0m] [0m	DefaultMavenRepository: http://repo1.maven.org/maven2/[0m
+[0m[[0mdebug[0m] [0m	plugin: https://github.com/hochgi/clever_dropbox/tree/master/clever_dropbox_library/[0m
+[0m[[0mdebug[0m] [0m	Scala-Tools Maven2 Repository: http://scala-tools.org/repo-releases/[0m
+[0m[[0mdebug[0m] [0m	Java.net Repository for Maven: http://download.java.net/maven/2/[0m
+[0m[[0mdebug[0m] [0m	Akka Repository: http://akka.io/repository/[0m
+[0m[[0mdebug[0m] [0m	mvn Repo: http://mvnrepository.com/[0m
+[0m[[0mdebug[0m] [0m	grepcode Repo: http://grepcode.com/snapshot/repo1.maven.org/maven2/[0m
+[0m[[0mdebug[0m] [0m	public: http://repo1.maven.org/maven2/[0m
+[0m[[0mdebug[0m] [0m	Scala-Tools Maven2 Repository: http://scala-tools.org/repo-releases[0m
+[0m[[0mdebug[0m] [0mUsing inline dependencies specified in Scala.[0m

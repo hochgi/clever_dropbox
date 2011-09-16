@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="GilaDana.CleverDropboxManager" module="clever_dropbox_library_2.9.0-1" revision="0.1" status="release" publication="20110915124101"/>
+	<info organisation="GilaDana" module="clever_dropbox_library_2.9.0-1" revision="0.1" status="release" publication="20110915154100"/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>
 		<conf name="runtime" visibility="public" description="" extends="compile"/>

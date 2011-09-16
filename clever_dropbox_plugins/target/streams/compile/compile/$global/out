@@ -1,0 +1,30 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(/home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/src/main/scala/TypeLabeler.scala, /home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/src/main/scala/YearLabeler.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mModified external sources: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/src/main/scala/TypeLabeler.scala, /home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/src/main/scala/YearLabeler.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mInitially invalidated: Set(/home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/src/main/scala/TypeLabeler.scala, /home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/src/main/scala/YearLabeler.scala)[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/target/scala-2.9.0.1/classes...[0m
+[0m[[0mdebug[0m] [0mInterfacing (CompilerInterface) with Scala compiler version 2.9.0.1[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/target/scala-2.9.0.1/classes[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/opt/jdk7/jre/lib/resources.jar:/opt/jdk7/jre/lib/rt.jar:/opt/jdk7/jre/lib/sunrsasign.jar:/opt/jdk7/jre/lib/jsse.jar:/opt/jdk7/jre/lib/jce.jar:/opt/jdk7/jre/lib/charsets.jar:/opt/jdk7/jre/classes:/home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/project/boot/scala-2.9.0-1/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-cp[0m
+[0m[[0mdebug[0m] [0m	/home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/target/scala-2.9.0.1/classes:/home/giladhoch/.ivy2/local/GilaDana.CleverDropboxManager/clever_dropbox_library_2.9.0-1/0.1/jars/clever_dropbox_library_2.9.0-1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/src/main/scala/TypeLabeler.scala[0m
+[0m[[0mdebug[0m] [0m	/home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/src/main/scala/YearLabeler.scala[0m
+[0m[[33mwarn[0m] [0mthere were 1 deprecation warnings; re-run with -deprecation for details[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0mdebug[0m] [0m	Invalidated direct: Set()[0m
+[0m[[0mdebug[0m] [0mIncrementally invalidated: Set()[0m

@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mGenerating API documentation for main sources...[0m
+[0m[[0mdebug[0m] [0mCalling Scaladoc with arguments:[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/target/scala-2.9.0.1/api[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/home/giladhoch/bin/jdk1.7.0/jre/lib/resources.jar:/home/giladhoch/bin/jdk1.7.0/jre/lib/rt.jar:/home/giladhoch/bin/jdk1.7.0/jre/lib/sunrsasign.jar:/home/giladhoch/bin/jdk1.7.0/jre/lib/jsse.jar:/home/giladhoch/bin/jdk1.7.0/jre/lib/jce.jar:/home/giladhoch/bin/jdk1.7.0/jre/lib/charsets.jar:/home/giladhoch/bin/jdk1.7.0/jre/classes:/home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/project/boot/scala-2.9.0-1/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	-cp[0m
+[0m[[0mdebug[0m] [0m	/home/giladhoch/.ivy2/local/GilaDana.CleverDropboxManager/clever_dropbox_library_2.9.0-1/0.1/jars/clever_dropbox_library_2.9.0-1.jar[0m
+[0m[[0mdebug[0m] [0m	/home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/src/main/scala/TypeLabeler.scala[0m
+[0m[[0mdebug[0m] [0m	/home/giladhoch/workspace/clever_dropbox/clever_dropbox_plugins/src/main/scala/YearLabeler.scala[0m
+[0m[[33mwarn[0m] [0mthere were 1 deprecation warnings; re-run with -deprecation for details[0m
+[0m[[33mwarn[0m] [0mone warning found[0m
+[0m[[0minfo[0m] [0mAPI documentation generation successful.[0m
